@@ -1,3 +1,4 @@
+[![Board Status](https://rebuy.visualstudio.com/31d26a36-eed5-4e5c-b85f-e1e192c1d2ba/169406fb-7d62-4313-af18-48bad2c22747/_apis/work/boardbadge/e1266801-7a90-4a9f-9c46-9f0f01a87eea)](https://rebuy.visualstudio.com/31d26a36-eed5-4e5c-b85f-e1e192c1d2ba/_boards/board/t/169406fb-7d62-4313-af18-48bad2c22747/Microsoft.EpicCategory)
 # Analysis Services
 Git repo for Analysis Services samples and community projects
 
